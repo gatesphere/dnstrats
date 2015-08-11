@@ -9,9 +9,8 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="peckj.20150811130207.1"><vh>NewHeadline</vh></v>
+<v t="peckj.20150811130207.1" a="E"><vh>@auto README.md</vh></v>
 </vnodes>
 <tnodes>
-<t tx="peckj.20150811130207.1"></t>
 </tnodes>
 </leo_file>
