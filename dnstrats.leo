@@ -9,7 +9,8 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="peckj.20150811130207.1" a="E"><vh>@auto README.md</vh></v>
+<v t="peckj.20150811130207.1"><vh>@auto README.md</vh></v>
+<v t="peckj.20150811132226.1" a="E"><vh>@auto Dice.md</vh></v>
 </vnodes>
 <tnodes>
 </tnodes>
