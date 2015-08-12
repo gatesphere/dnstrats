@@ -20,3 +20,5 @@ This table lists the (rough) percentage chance of rolling *at least* one success
 
 Generally speaking, you should rarely worry about a target number of 3 or less, though they're not too terribly common in Darkest Night.  At a target number of 4, I would try to shoot for a 3 die pool to be relatively comfortable with the margin of error.  A 4-die pool is ideal for a target number of 5, and a target number of 6 you should ideally grow as large a pool as possible -- though not so much that you prevent yourself from fighting the Necromancer effectively.  Through most of the game, a 2-3 die pool will give you fairly decent results, but can be a bit swingy.
 
+**TBD**: Probabilities for rolling at least N successes, etc.
+
